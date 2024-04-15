@@ -150,3 +150,6 @@ docs/pages/versions/*/react-native/*.diff
 /ios/Pods
 /ios/build
 **/ios/.xcode.env.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
